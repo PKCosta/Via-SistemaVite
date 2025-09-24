@@ -4,6 +4,8 @@ import Register from "./pages/Register";
 import ForgotPassword from "./pages/ForgotPassword";
 import Dashboard from "./pages/Dashboard";
 import NotFoundPage from "./pages/NotFoundPage";
+import './index.css';
+
 
 
 function App() {
