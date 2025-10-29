@@ -1,0 +1,3 @@
+{
+  "/(public)/forgotPassword/page": "app/(public)/forgotPassword/page.js"
+}

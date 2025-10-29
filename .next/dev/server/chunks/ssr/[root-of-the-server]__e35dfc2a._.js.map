@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///D:/MY%20PROJETC/viavendas-web-react-vite%20-%20Copia/src/app/page.tsx"],"sourcesContent":["export default function Home() {\r\n  return (\r\n\r\n      <h1 className=\"text-3xl font-bold underline\">\r\n      Hello world!\r\n    </h1>\r\n\r\n  )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAEI,8OAAC;QAAG,WAAU;kBAA+B;;;;;;AAKnD","debugId":null}}]
+}

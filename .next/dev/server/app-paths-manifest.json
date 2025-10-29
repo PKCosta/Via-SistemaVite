@@ -1,0 +1,5 @@
+{
+  "/(private)/dashboard/page": "app/(private)/dashboard/page.js",
+  "/(public)/sign-in/page": "app/(public)/sign-in/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
